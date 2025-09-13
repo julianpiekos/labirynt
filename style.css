@@ -1,0 +1,9 @@
+td {
+    border-style: none;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+td.przejście {
+    background-color: white;
+}
